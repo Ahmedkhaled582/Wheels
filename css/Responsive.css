@@ -1,0 +1,199 @@
+@media screen and (max-width:1360px) {
+    .navbar .icon {
+        display: none;
+    }
+
+}
+@media screen and (max-width:991px) {
+.navbar .navbar-collapse{
+    background-color: #dd0707;
+    width:350px ;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    padding-top: 80px;
+    z-index: 20;
+}
+.navbar .navbar-collapse::before{
+    content: "";
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    height: 89px;
+    top: 0;
+}
+.navbar .navbar-collapse .navbar-nav{
+    margin-top: 10px;
+}
+.navbar .navbar-collapse .navbar-nav li{
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+.navbar .navbar-collapse .navbar-nav li a{
+    color: #ffffff;
+}
+.container{
+    max-width: 100%;
+}
+.feature .col-md-12{
+    display: block !important;
+}
+.feature .tab-content{
+    width: 100%;
+}
+.engine .img-engine img {
+    max-width: 50% !important;
+}
+.engine .col-lg-4 {
+    text-align: center;
+}
+.accessories .heading h2{
+    font-size: 40px;
+}
+.accessories .text p{
+    font-size: 18px;
+
+}
+}
+@media screen and (max-width:766px) {
+    .home .content {
+        text-align: center;
+        margin-top: 30%;
+    }    
+    .home .content h2 {
+        font-size: 25px;
+    }    
+    .home .content h1 span {
+        font-size: 44px;
+    }  
+    .home .content h1 {
+        font-size: 56px;
+    }  
+    .home .content p {
+        font-size: 18px;
+    }  
+    .home .pricing{
+        margin-top: 0;
+        text-align: center;
+        font-size: 20px;
+    }
+    .home .pricing span{
+        font-size: 30px;
+    }
+    .bookride .form-row{
+        display: block !important;
+        }
+    .bookride h2{
+        font-size: 40px;
+    }
+    .bookride{
+        height: 100%;
+    }
+    .dealer h2{
+        font-size: 40px;
+    }
+    .dealer p{
+        font-size: 18px;
+    }
+    .dealer .form-row{
+        flex-wrap: wrap;
+    }
+    .dealer .form-row .col-md-3{
+    margin-bottom: 15px;
+    }
+    .accessories .heading h2{
+        font-size: 40px;
+    }
+    .accessories .text p{
+        font-size: 18px;
+
+    }
+}
+@media screen and (max-width:639px){
+    .home{
+        height: 90vh;
+    }
+    .home .content {
+        margin-top: 30%;
+    }
+    .about .heading span{
+        font-size: 28px;
+    }
+    .about h2{
+        font-size: 40px;
+    }
+    .about p{
+        font-size: 18px;
+    }
+    .feature .heading span{
+        font-size: 28px;
+    }
+    .feature .heading h2{
+        font-size: 40px;
+    }
+    .feature .heading p{
+        font-size: 18px;
+    }
+    .variations span{
+        font-size: 28px;
+    }
+    .variations h2{
+        font-size: 40px;
+    }
+    .variations p{
+        font-size: 18px;
+    }
+    .accessories .heading h2{
+        font-size: 40px;
+    }
+    .accessories .text p{
+        font-size: 18px;
+
+    }
+}
+@media screen and (max-width:600px){
+    
+    .home .content {
+        margin-top: 30%;
+    }
+.engine h3{
+    font-size: 18px;
+}
+.engine h2{
+    font-size: 40px;
+}
+.engine p{
+    font-size: 18px;
+}
+.engine .card-engine{
+    display: block;
+}
+.engine .col{
+text-align: left;
+display: flex;
+margin-bottom: 20px;
+width: 95%;
+}
+.engine .icon-img{
+    margin-top: 10px;
+       }
+.engine .icon-text{
+ margin-left: 15px;
+    }
+    .dealer .form-row {
+        display: block;
+    }
+    .accessories .heading h2{
+        font-size: 40px;
+    }
+    .accessories .text p{
+        font-size: 18px;
+
+    }
+}
+@media screen and (max-width:419px){
+    .navbar .navbar-collapse{
+        width: 250px;
+    }
+}
