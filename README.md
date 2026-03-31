@@ -1,8 +1,8 @@
 # 🚗 Wheels — Luxury Car Showcase Landing Page
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/ahmedkhaled582/Wheels?style=social)](https://github.com/ahmedkhaled582/Wheels) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat)](https://ahmedkhaled582.github.io/Wheels/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ahmedkhaled582/Wheels?style=social)](https://github.com/ahmedkhaled582/Wheels) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat)](https://ahmedkhaled582.github.io/Wheels/) [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000?style=flat&logo=github&logoColor=white)](https://pages.github.com/)
 
-A **modern, fully responsive landing page** for luxury cars, showcasing features, color options, accessories, and dealer info. Designed with a **premium automotive UI** inspired by real-world car brands.
+A modern, fully responsive landing page for luxury cars, showcasing features, color options, accessories, and dealer info. Designed with a premium, high-end automotive UI inspired by real-world car brands.
 
 ---
 
@@ -12,64 +12,29 @@ A **modern, fully responsive landing page** for luxury cars, showcasing features
 ---
 
 ## 📸 Preview
-
-<style>
-img.hover-effect {
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-  border-radius: 12px;
-}
-img.hover-effect:hover {
-  transform: scale(1.07) rotate(-1deg);
-  box-shadow: 0 15px 30px rgba(0,0,0,0.25);
-}
-.badge {
-  display: inline-block;
-  padding: 3px 10px;
-  border-radius: 8px;
-  background: linear-gradient(45deg, #f3c623, #f54e42);
-  color: white;
-  font-weight: bold;
-  animation: pulse 2s infinite;
-  transition: transform 0.3s ease;
-}
-.badge:hover {
-  transform: scale(1.2);
-}
-@keyframes pulse {
-  0%,100% { transform: scale(1); opacity: 1;}
-  50% { transform: scale(1.1); opacity: 0.85;}
-}
-.section-gradient {
-  background: linear-gradient(90deg, #1e3c72, #2a5298);
-  padding: 10px 0;
-  border-radius: 10px;
-  color: white;
-}
-</style>
-
-### 🎨 <span class="badge">Hero Section</span>
-<img class="hover-effect" src="https://ahmedkhaled582.github.io/Wheels/assets/images/hero.png" alt="Hero">
+### 🎨 Hero Section
+![Hero](https://ahmedkhaled582.github.io/Wheels/assets/images/hero.png)  
 Eye-catching hero banner with main call-to-action.
 
-### ⚡ <span class="badge">Features Section</span>
-<img class="hover-effect" src="https://ahmedkhaled582.github.io/Wheels/assets/images/features.png" alt="Features">
+### ⚡ Features Section
+![Features](https://ahmedkhaled582.github.io/Wheels/assets/images/features.png)  
 Highlighting car technology and smart features.
 
-### 🎨 <span class="badge">Color Options</span>
-<img class="hover-effect" src="https://ahmedkhaled582.github.io/Wheels/assets/images/colors.png" alt="Colors">
+### 🎨 Color Options
+![Colors](https://ahmedkhaled582.github.io/Wheels/assets/images/colors.png)  
 Interactive car color selection.
 
-### 🛠 <span class="badge">Accessories Section</span>
-<img class="hover-effect" src="https://ahmedkhaled582.github.io/Wheels/assets/images/accessories.png" alt="Accessories">
+### 🛠 Accessories Section
+![Accessories](https://ahmedkhaled582.github.io/Wheels/assets/images/accessories.png)  
 Showcasing premium accessories and add-ons.
 
-### 🗺 <span class="badge">Dealer Locator / Test Ride</span>
-<img class="hover-effect" src="https://ahmedkhaled582.github.io/Wheels/assets/images/dealer.png" alt="Dealer">
+### 🗺 Dealer Locator / Test Ride
+![Dealer](https://ahmedkhaled582.github.io/Wheels/assets/images/dealer.png)  
 Find dealers and book a test drive easily.
 
 ---
 
-## ✨ <span class="badge">Highlights</span>
+## ✨ Highlights
 - ⚡ Performance: Lightweight & fast
 - 🎨 UI/UX: Modern, premium, visually appealing
 - 📱 Responsive: Desktop, tablet, mobile
@@ -79,7 +44,7 @@ Find dealers and book a test drive easily.
 
 ---
 
-## 🧩 <span class="badge">Features Breakdown</span>
+## 🧩 Features Breakdown
 ### 🧭 Layout & Structure
 - Hero section with call-to-action
 - Smart Features & Technology section
@@ -103,7 +68,7 @@ Find dealers and book a test drive easily.
 
 ---
 
-## 🧱 <span class="badge">Tech Stack</span>
+## 🧱 Tech Stack
 | Technology | Usage |
 |------------|-------|
 | HTML5 | Markup & structure |
@@ -113,7 +78,7 @@ Find dealers and book a test drive easily.
 
 ---
 
-## 📁 <span class="badge">Folder Structure</span>
+## 📁 Folder Structure
 index.html  
 /assets/  
  images/  
@@ -130,7 +95,7 @@ README.md
 
 ---
 
-## ⚡ <span class="badge">Getting Started</span>
+## ⚡ Getting Started
 Clone the repository:  
 `git clone https://github.com/ahmedkhaled582/Wheels.git`  
 
@@ -138,7 +103,7 @@ Open `index.html` in your browser or serve via a local server.
 
 ---
 
-## 🧠 <span class="badge">Key Learnings</span>
+## 🧠 Key Learnings
 - Building responsive, modern landing pages
 - Designing high-end automotive UI
 - Structuring sections for UX clarity
@@ -147,7 +112,7 @@ Open `index.html` in your browser or serve via a local server.
 
 ---
 
-## 🚀 <span class="badge">Future Improvements</span>
+## 🚀 Future Improvements
 - Backend integration for dealer/test ride booking
 - Dynamic car catalog with API
 - Animated gallery/carousel
@@ -156,12 +121,12 @@ Open `index.html` in your browser or serve via a local server.
 
 ---
 
-## 👨‍💻 <span class="badge">Author</span>
+## 👨‍💻 Author
 Ahmed Khaled  
 🌐 Portfolio: [https://ahmedkhaled582.github.io/Portfolio/](https://ahmedkhaled582.github.io/Portfolio/)  
 💼 LinkedIn: [https://linkedin.com/in/ahmedkhaled582](https://linkedin.com/in/ahmedkhaled582)
 
 ---
 
-## ⭐ <span class="badge">Support</span>
+## ⭐ Support
 If you like this project, consider giving it a ⭐ on GitHub!
