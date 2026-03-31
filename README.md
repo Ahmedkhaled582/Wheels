@@ -104,19 +104,22 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ahmedkhaled582/Wheels.git
-Open index.html in your browser, or serve via a local server.
+
+Open index.html in your browser or serve via a local server.
+
+
 🧠 Key Learnings
-Responsive landing page creation
-High-end automotive UI design
-UX-focused layout structuring
+Building responsive, modern landing pages
+Designing high-end automotive UI
+Structuring sections for UX clarity
 Efficient static asset management
-Interactive dealer & test ride forms
+Implementing interactive dealer/test ride forms
 🚀 Future Improvements
-Backend integration for dealer & test ride booking
+Backend integration for dealer/test ride booking
 Dynamic car catalog with API
-Animated gallery / carousel
+Animated gallery/carousel
 Newsletter backend integration
-Dark mode toggle
+Dark mode feature
 👨‍💻 Author
 Ahmed Khaled
 🌐 Portfolio: https://ahmedkhaled582.github.io/Portfolio/⁠�
