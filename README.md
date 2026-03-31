@@ -94,3 +94,30 @@ Designed for a **modern, high-end automotive experience**.
 ---
 
 ## 📁 Folder Structure
+index.html /assets/ images/ css/ js/ README.md
+
+---
+
+## ⚡ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ahmedkhaled582/Wheels.git
+Open index.html in your browser, or serve via a local server.
+🧠 Key Learnings
+Responsive landing page creation
+High-end automotive UI design
+UX-focused layout structuring
+Efficient static asset management
+Interactive dealer & test ride forms
+🚀 Future Improvements
+Backend integration for dealer & test ride booking
+Dynamic car catalog with API
+Animated gallery / carousel
+Newsletter backend integration
+Dark mode toggle
+👨‍💻 Author
+Ahmed Khaled
+🌐 Portfolio: https://ahmedkhaled582.github.io/Portfolio/⁠�
+💼 LinkedIn: https://linkedin.com/in/ahmedkhaled582⁠�
