@@ -123,5 +123,5 @@ Open `index.html` in your browser or serve via a local server.
 
 ## 👨‍💻 Author
 Ahmed Khaled  
-🌐 Portfolio: [https://ahmedkhaled582.github.io/Portfolio/](https://ahmedkhaled582.github.io/Portfolio/)  
-💼 LinkedIn: [https://linkedin.com/in/ahmedkhaled582](https://linkedin.com/in/ahmedkhaled582)
+🌐 Portfolio: https://ahmedkhaled582.github.io/Portfolio/  
+💼 LinkedIn: https://www.linkedin.com/in/ahmed-khaled-yahia
